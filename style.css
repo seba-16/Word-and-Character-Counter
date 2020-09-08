@@ -1,0 +1,19 @@
+nav{
+	background-color: #747d8c;
+}
+.navbar-brand{
+	padding-left: 100px;
+	font-family: 'Sedgwick Ave Display', cursive;
+	font-size: 40px;
+}
+button{
+	font-family: 'Sedgwick Ave Display', cursive;
+}
+h3{
+	font-family: 'Metal Mania', cursive;
+	color: #ff7f50;
+}
+h2{
+	font-family: 'Lacquer', cursive;
+	color: #ffa502;
+}
